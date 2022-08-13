@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">
-<a href="https:/ /instagram.com/https://www.instagram.com/@_dilmurod__990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_dilmurod__990/" height="30" width="40" /></ a>
-<a href="https://medium.com/@ https://medium.com/@dilmurodshermahamatov" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ https://medium.com/@dilmurodshermahamatov" height="30" width="40" " /></a>
+
 </p>
 
 <h3 align="left">Tillar va asboblar:</h3>
